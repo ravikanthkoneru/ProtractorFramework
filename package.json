@@ -1,0 +1,24 @@
+{
+  "name": "testpack",
+  "version": "1.0.0",
+  "description": "test code",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^5.4.2",
+    "rest-assured": "0.1.0",
+    "vsts-specflow": "1.0.4",
+    "cucumber": "6.0.5",
+    "sql-template-tag": "3.3.0",
+    "@azure/cosmos": "3.5.2",
+    "informatica": "1.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.5.0",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  }
+}
